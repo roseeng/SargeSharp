@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SargeTest": {
+      "commandName": "Project",
+      "commandLineArgs": "-k kattunge -an 42 --snake"
+    }
+  }
+}

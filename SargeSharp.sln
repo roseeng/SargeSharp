@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SargeSharp", "SargeSharp\SargeSharp.csproj", "{6F48406D-37B8-4205-9AB4-18BD279A7BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SargeTest", "SargeTest\SargeTest.csproj", "{BABCC9AA-5C70-4BD4-8BEB-A03BD1E7F870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F48406D-37B8-4205-9AB4-18BD279A7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F48406D-37B8-4205-9AB4-18BD279A7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F48406D-37B8-4205-9AB4-18BD279A7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F48406D-37B8-4205-9AB4-18BD279A7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BABCC9AA-5C70-4BD4-8BEB-A03BD1E7F870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABCC9AA-5C70-4BD4-8BEB-A03BD1E7F870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABCC9AA-5C70-4BD4-8BEB-A03BD1E7F870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABCC9AA-5C70-4BD4-8BEB-A03BD1E7F870}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57410287-31B1-44FD-B381-C70B1DA2FED3}
+	EndGlobalSection
+EndGlobal
